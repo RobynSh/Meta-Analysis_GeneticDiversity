@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Custom code and supporting data for manuscript: "*Global meta-analysis shows action is needed to halt genetic diversity loss"*
 
 This repository contains the following supporting data and R code (with
